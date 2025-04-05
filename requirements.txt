@@ -1,0 +1,12 @@
+1) Libraries :
+    pandas
+    numpy
+    scikit-learn
+    matplotlib
+    seaborn
+    joblib
+    jupyter
+
+2) Python version: 3.13
+
+3) Tool - jupyterNotebook
